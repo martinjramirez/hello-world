@@ -1,2 +1,2 @@
 starting with a test file
-then adding a new line
+this is a line in conflict
