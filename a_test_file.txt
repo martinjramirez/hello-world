@@ -1,1 +1,2 @@
 starting with a test file
+then adding a new line
