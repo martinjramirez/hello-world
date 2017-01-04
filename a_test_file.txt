@@ -1,2 +1,4 @@
 starting with a test file
 this is a line in conflict
+line 3 added online
+line 4 added online
